@@ -1,16 +1,29 @@
-## Hi there 👋
+# Rafael Fiorini
 
-<!--
-**RafaelFiorini/RafaelFiorini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de Sistemas | Desenvolvedor Java
 
-Here are some ideas to get you started:
+Profissional de tecnologia com experiência em projetos corporativos e desenvolvimento de sistemas. Atualmente focado em backend Java, APIs REST e arquitetura de sistemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+- Java
+- Spring Boot
+- REST APIs
+- SQL
+- Git
+- Docker
+
+## Projetos em destaque
+
+### DailyAutism
+Sistema para organização e acompanhamento de rotinas e informações para responsáveis por pessoas com Transtorno do Espectro Autista (TEA).
+
+### TaskFlow API
+API REST para gerenciamento de tarefas.
+
+### SmartBudget API
+API para controle financeiro pessoal.
+
+## Contato
+
+LinkedIn: https://linkedin.com/in/rafael-henrique-fiorini  
