@@ -26,4 +26,4 @@ API para controle financeiro pessoal.
 
 ## Contato
 
-LinkedIn: https://linkedin.com/in/rafael-henrique-fiorini  
+LinkedIn: https://www.linkedin.com/in/rafael-henrique-fiorini-472813258
